@@ -15,11 +15,6 @@
 @import "screens/chats.css";
 @import "components/no-mobile.css";
 
-@media screen and (max-width:500px) {
-    .flip-status{
-        display:none;
-    }
-}
 body{
     background-color: ivory;
     font-family: 'Gluten', cursive;
