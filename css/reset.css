@@ -48,7 +48,8 @@ table {
 }
 
 input{
-    outline: none;
+    border: none;
+	outline: none;
     
 }
 
