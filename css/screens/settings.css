@@ -1,0 +1,29 @@
+.setting-setting {
+    border-bottom: var(--main-border);
+    padding:23px;
+}
+
+.setting-setting{
+    font-size:22px;
+    font-weight:600;
+    position: relative;
+    width:100%;
+    display:flex;
+    align-items: center;
+}
+
+.setting-setting i {
+    margin-right:10px;
+}
+
+.setting-setting span .fa-info-circle{
+    color:var(--pink);
+}
+
+.setting-setting span:nth-child(3){
+    font-size:15px;
+    position:absolute;
+    right:50px;
+    color:rgba(61, 50, 50,0.7);
+
+}

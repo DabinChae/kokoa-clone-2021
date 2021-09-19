@@ -1,0 +1,46 @@
+#more-user-component{
+    margin-bottom: 20px;
+}
+
+.user-component__subtitle i{
+    margin-left:3px;
+    color:var(--pink);
+}
+
+.user-component__comment{
+    position:absolute;
+    right:25px;
+}
+
+.more-suggestion{
+    padding:20px 0px;
+    border-top: var(--main-border);
+}
+
+.more-suggestion h6{
+    font-size: 18px;
+    font-weight:600;
+}
+
+.more-suggestion__icons img{
+    width:80px;
+    height:80px;
+    border-radius: 25px;
+}
+
+.more-suggestion__icons div{
+    width:80px;
+    height:80px;
+}
+
+.more-suggestion__column{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.more-suggestion__icons{
+    display: flex;
+    flex-direction: column;
+}
